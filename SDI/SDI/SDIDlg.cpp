@@ -120,6 +120,7 @@ BOOL CSDIDlg::OnInitDialog()
 	m_list.AddString(L"Вторая строка");
 	m_list.AddString(L"Третья строка");
 	m_list.AddString(L"Четвертая строка");
+	m_list.AddString(L"Пятая строка");
 	
 
 
